@@ -1,0 +1,26 @@
+{
+    "success":true,
+    "code":200,
+    "message":"操作成功",
+    "data":[{
+        "truckId":1,
+        "truckPoint1":"B",
+        "truckPoint2":"c",
+        "truckPoint3":"C",
+        "truckPoint4":"b",
+        "arrivedPoint":0
+    },{
+        "truckId":2,
+        "truckPoint1":"B",
+        "truckPoint2":"c",
+        "truckPoint3":"B",
+        "truckPoint4":"c",
+        "arrivedPoint":0
+    },{
+        "truckId":3,
+        "truckPoint1":"A",
+        "truckPoint2":"a",
+        "truckPoint3":"D",
+        "truckPoint4":"b",
+        "arrivedPoint":0
+    },{"truckId":4,"truckPoint1":"c","truckPoint2":"C","truckPoint3":"c","truckPoint4":"E","arrivedPoint":1},{"truckId":5,"truckPoint1":"A","truckPoint2":"c","truckPoint3":"B","truckPoint4":"a","arrivedPoint":0},{"truckId":6,"truckPoint1":"c","truckPoint2":"B","truckPoint3":"a","truckPoint4":"B","arrivedPoint":1},{"truckId":7,"truckPoint1":"A","truckPoint2":"a","truckPoint3":"A","truckPoint4":"a","arrivedPoint":0},{"truckId":8,"truckPoint1":"a","truckPoint2":"B","truckPoint3":"a","truckPoint4":"A","arrivedPoint":1},{"truckId":9,"truckPoint1":"a","truckPoint2":"A","truckPoint3":"a","truckPoint4":"D","arrivedPoint":1},{"truckId":10,"truckPoint1":"b","truckPoint2":"D","truckPoint3":"b","truckPoint4":"B","arrivedPoint":1},{"truckId":11,"truckPoint1":"a","truckPoint2":"E","truckPoint3":"b","truckPoint4":"C","arrivedPoint":0},{"truckId":12,"truckPoint1":"a","truckPoint2":"D","truckPoint3":"a","truckPoint4":"D","arrivedPoint":0},{"truckId":13,"truckPoint1":"a","truckPoint2":"F","truckPoint3":"a","truckPoint4":"C","arrivedPoint":0},{"truckId":14,"truckPoint1":"a","truckPoint2":"F","truckPoint3":"a","truckPoint4":"F","arrivedPoint":0},{"truckId":15,"truckPoint1":"a","truckPoint2":"A","truckPoint3":"a","truckPoint4":"A","arrivedPoint":1},{"truckId":16,"truckPoint1":"F","truckPoint2":"b","truckPoint3":"E","truckPoint4":"a","arrivedPoint":1},{"truckId":17,"truckPoint1":"b","truckPoint2":"F","truckPoint3":"b","truckPoint4":"G","arrivedPoint":0},{"truckId":18,"truckPoint1":"A","truckPoint2":"c","truckPoint3":"F","truckPoint4":"a","arrivedPoint":0},{"truckId":19,"truckPoint1":"D","truckPoint2":"c","truckPoint3":"G","truckPoint4":"c","arrivedPoint":0},{"truckId":20,"truckPoint1":"c","truckPoint2":"F","truckPoint3":"c","truckPoint4":"F","arrivedPoint":0}]}

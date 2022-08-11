@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/sig1.png</file>
+        <file>img/cloud.png</file>
+        <file>img/gps.png</file>
+        <file>img/power.png</file>
+        <file>img/sig2.png</file>
+        <file>img/sig3.png</file>
+        <file>img/status_bg.png</file>
+        <file>img/driver.jpg</file>
+        <file>img/mask.png</file>
+        <file>img/white_bg.png</file>
+    </qresource>
+</RCC>

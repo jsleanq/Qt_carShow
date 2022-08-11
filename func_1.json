@@ -1,0 +1,8 @@
+{
+    "dest":"开采点A",
+    "type":"铜矿",
+    "load":"23.2t",
+    "leftroutie":"25",
+    "mine":"430t/500t",
+    "trash":"250t/700t"
+}
